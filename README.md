@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello I am Ethan and I am a student at MSU.
